@@ -1,5 +1,3 @@
-# ChatBot
-This project features a chatbot using Microsoft DialoGPT and Flask, with a responsive frontend built with HTML, CSS, JavaScript, and jQuery. It enables natural language conversations and includes setup instructions, dependencies, and fine-tuning tips for enhanced responses.
 # ChatBot  
 
 This project features a chatbot built using Microsoft DialoGPT and Flask, with a responsive frontend designed with HTML, CSS, JavaScript, and jQuery. The chatbot supports natural language conversations and provides a seamless user experience.  
